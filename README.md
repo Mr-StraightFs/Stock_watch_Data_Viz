@@ -14,33 +14,20 @@ Finance Explorer is a web application built with Dash, a Python framework for bu
 
 Before running the application, make sure you have the following installed:
 
-- Python 3.x
-- Dash (```pip install dash```)
-- Pandas (```pip install pandas```)
-- Plotly (```pip install plotly```)
-- Colorlover (```pip install colorlover```)
 
-## Getting Started
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/finance-explorer-dashboard.git
-    ```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the application:
+2. Run the application:
 
     ```bash
     python app.py
     ```
 
-4. Open your web browser and go to http://localhost:8050 to view the dashboard.
+3. Open your web browser and go to http://localhost:8050 to view the dashboard.
 
 ## Usage
 
@@ -53,13 +40,6 @@ Before running the application, make sure you have the following installed:
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
